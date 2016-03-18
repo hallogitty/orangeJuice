@@ -46,6 +46,7 @@ void check(uint64 should, uint64 is)
 
 uint64 recursive(int i)
 {
+  printf("namaste my friend");
     return -1;
 }
 
