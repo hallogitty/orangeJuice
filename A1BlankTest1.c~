@@ -51,7 +51,6 @@ uint64 recursive(int i)
 
 uint64 iterative(int i)
 {
-	printf("pratzen pratzln pratzen");
     return -1;
 }
 
